@@ -1,5 +1,9 @@
 # LED Matrix Control Software HD <img src="https://github.com/gmanandmarbles/Awesome-Event-Systems/assets/119905567/d19eb3fd-40c4-4d3c-aa4e-3237b991602f" align="right" height="258"/>
-
+## Repo Link
+https://github.com/TylerTimoJ/LMCSHD
+```
+https://github.com/TylerTimoJ/LMCSHD
+```
 
 ## Overview
 The aim of this project is to create a fully featured software that allows users to easily display animations and images on their own custom LED matrix. LMCSHD can either send image data to a matrix in real-time using a standard UART Serial connection, or export the image in a variety of formats for later use. 
